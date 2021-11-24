@@ -142,18 +142,7 @@ require_once 'config.php';
         </style>
     
  
-   <script src="assets/main/js/popper.min.js"></script>
-    <script src="assets/main/js/bootstrap.min.js"></script>
-    <script src="assets/main/js/TweenMax.min.js"></script>
-    <script src="assets/main/js/wow.js"></script>
-    <script src="assets/main/js/owl.js"></script>
-    <script src="assets/main/js/appear.js"></script>
-    <script src="assets/main/js/swiper.min.js"></script>
-    <script src="assets/main/js/jquery.fancybox.js"></script>
-    <script src="assets/main/js/menu-nav-btn.js"></script>
-    <script src="assets/main/js/jquery-ui.js"></script>
-    <!-- Custom JS -->
-    <script src="assets/main/js/script.js"></script>
+  
 </head>
 
 <body>
@@ -631,7 +620,18 @@ require_once 'config.php';
 
 
   
-
+ <script src="assets/main/js/popper.min.js"></script>
+    <script src="assets/main/js/bootstrap.min.js"></script>
+    <script src="assets/main/js/TweenMax.min.js"></script>
+    <script src="assets/main/js/wow.js"></script>
+    <script src="assets/main/js/owl.js"></script>
+    <script src="assets/main/js/appear.js"></script>
+    <script src="assets/main/js/swiper.min.js"></script>
+    <script src="assets/main/js/jquery.fancybox.js"></script>
+    <script src="assets/main/js/menu-nav-btn.js"></script>
+    <script src="assets/main/js/jquery-ui.js"></script>
+    <!-- Custom JS -->
+    <script src="assets/main/js/script.js"></script>
 </body>
 
 <!-- Goodsoul_html/  20 Nov 2019 03:26:36 GMT -->
