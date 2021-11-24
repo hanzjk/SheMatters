@@ -35,6 +35,7 @@ require_once 'config.php';
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
 </script>
@@ -444,7 +445,7 @@ require_once 'config.php';
                                 <img src="assets/main/images/icons/fin.png" alt="">
                             </div>
                             <h4>Financial Aid Portal</h4>
-                            <div class="overlay" style="background-image: url(images/background/bg-2.jpg);">
+                            <div class="overlay" >
                                 <h4>Financial Aid Portal</h4>
                                 <div class="text">Provide financial assistance and connect donors with women in need.<br> </div>
                                 <div class="link-btn"><a href="financial_aid/faid-intro.php" class="theme-btn btn-style-five"><span>More Details</span></a></div>
@@ -458,7 +459,7 @@ require_once 'config.php';
                                 <img src="assets/main/images/icons/sur.png" alt="">
                             </div>
                             <h4>Survivor Stories</h4>
-                            <div class="overlay" style="background-image: url(images/background/bg-2.jpg);">
+                            <div class="overlay" >
                                 <h4>Survivor Stories</h4>
                                 <div class="text">Share your story and raise awareness about different forms of violence against women, help others cope with their situation. </div>
                                 <div class="link-btn"><a href="survivor_stories/ss-intro.php" class="theme-btn btn-style-five"><span>More Details</span></a></div>
@@ -472,7 +473,7 @@ require_once 'config.php';
                                 <img src="assets/main/images/icons/awr.png" alt="">
                             </div>
                             <h4>Raise Awareness</h4>
-                            <div class="overlay" style="background-image: url(images/background/bg-2.jpg);">
+                            <div class="overlay">
                                 <h4>Raise Awareness</h4>
                                 <div class="text">Provide education to women on gender based violence. </div>
                                 <div class="link-btn"><a href="raise_awarness/raiseAwarness.php" class="theme-btn btn-style-five"><span>More Details</span></a></div>
