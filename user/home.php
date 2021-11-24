@@ -618,7 +618,6 @@ require_once 'config.php';
 
 
     <!-- JS -->
-    <script src="assets/main/js/jquery.js"></script>
     <script src="assets/main/js/popper.min.js"></script>
     <script src="assets/main/js/bootstrap.min.js"></script>
     <script src="assets/main/js/TweenMax.min.js"></script>
