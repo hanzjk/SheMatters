@@ -7,9 +7,8 @@ require_once 'config.php';
 <!-- Goodsoul_html/  20 Nov 2019 03:24:55 GMT -->
 
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" http-equiv="X-UA-Compatible" content="IE=edge"/>
     <title>SHE Matters</title>
-
 
 
     <!-- Google Fonts -->
