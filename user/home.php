@@ -145,13 +145,7 @@ require_once 'config.php';
 <body>
 
     <div class="page-wrapper">
-        <!-- Preloader -->
-        <div class="loader-wrap">
-            <div class="preloader"></div>
-            <div class="layer layer-one"><span class="overlay"></span></div>
-            <div class="layer layer-two"><span class="overlay"></span></div>
-            <div class="layer layer-three"><span class="overlay"></span></div>
-        </div>
+      
 
         <!-- Main Header-->
         <header class="main-header">
