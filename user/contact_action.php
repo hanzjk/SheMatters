@@ -22,8 +22,8 @@ require 'vendor/autoload.php';
   $mail->isSMTP();
   $mail->Host="smtp.gmail.com";
   $mail->SMTPAuth=true;
-  $mail->Username = "shematters21@gmail.com";
-  $mail->Password = "shematters";
+  $mail->Username = "";
+  $mail->Password = "";
   $mail->Port = 465;
 
   $mail->SMTPSecure = "ssl"; // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
