@@ -64,13 +64,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                     $mail->isSMTP();
                                     $mail->Host = 'smtp.gmail.com';
                                     $mail->SMTPAuth = true;
-                                    $mail->Username = "shematters21@gmail.com";
-                                    $mail->Password = "shematters";
+                                    $mail->Username = "";
+                                    $mail->Password = "";
                                     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
                                     $mail->Port = 587;
 
                                     //Recipients
-                                    $mail->setFrom("shematters21@gmail.com", "PROJECT");
+                                    $mail->setFrom("", "PROJECT");
                                     $mail->addAddress($email);     // Add a recipient
 
 
