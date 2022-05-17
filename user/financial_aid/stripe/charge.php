@@ -3,7 +3,7 @@ require_once('vendor/autoload.php');
 require_once "../../config.php";
 
 
-\Stripe\Stripe::setApiKey('sk_test_51I2vT0IjNoSNtCc5iS7YPdn7RerV8oAI8NvHDvwrbnjldUShFYaS0DsVbGPAfzVVG6evSqfwdiLSDFQw8N8LMsmC00bxsmHpgL');
+\Stripe\Stripe::setApiKey('key');
 
 $POST=filter_var_array($_POST,FILTER_SANITIZE_STRING);
 
